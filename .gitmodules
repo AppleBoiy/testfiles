@@ -1,0 +1,3 @@
+[submodule "lib/gif"]
+	path = lib/gif
+	url = https://github.com/charlietangora/gif-h.git
